@@ -4,7 +4,7 @@
   "description": "A repository used to demonstrate API creation using NodeJS",
   "main": "index.js",
   "scripts": {
-    "start": "node src/app.js",
+    "start": "node src/server",
     "test": "jest"
   },
   "repository": {
